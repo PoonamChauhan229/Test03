@@ -1,0 +1,6 @@
+N no of ways to push the code to Github
+
+1-Gitbash-push==>CLI
+2-GitdeskstopXXX
+3-Gitbash-clone
+4-VS code -pushXXXX
